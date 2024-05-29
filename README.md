@@ -26,6 +26,13 @@ Este repositorio contiene un conjunto de notebooks de Jupyter que realizan un an
 
 Las contribuciones son bienvenidas. Si encuentras algún error o tienes alguna sugerencia de mejora, por favor abre un *issue* o envía un *pull request*.
 
-## Licencia
+## Autores
+Juan José Enríquez Córdoba 
+Samuel Esteban Mena Pupiales 
+Santiago Bustos López 
+Ronald Felipe Benavides Bastidas
 
-Este proyecto está bajo la [Licencia MIT](LICENSE).
+## Agradecimientos
+Este proyecto fue realizado como parte de un proyecto académico en la Universidad Cooperativa de Colombia.
+Agradecemos a [UCI Machine Learning Repository](https://archive.ics.uci.edu/) por proporcionar el conjunto de datos utilizado en este proyecto.
+
