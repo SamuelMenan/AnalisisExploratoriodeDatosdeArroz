@@ -36,5 +36,6 @@ Las contribuciones son bienvenidas. Si encuentras algún error o tienes alguna s
 ## Agradecimientos
 
 -Este proyecto fue realizado como parte de un proyecto académico en la Universidad Cooperativa de Colombia.
+
 -Agradecemos a [UCI Machine Learning Repository](https://archive.ics.uci.edu/) por proporcionar el conjunto de datos utilizado en este proyecto.
 
