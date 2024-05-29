@@ -2,12 +2,6 @@
 
 Este repositorio contiene un conjunto de notebooks de Jupyter que realizan un análisis exploratorio de datos sobre un conjunto de datos de arroz. El análisis se centra en examinar las características físicas y químicas del arroz, así como en explorar las relaciones entre estas variables.
 
-## Contenido
-
-- **notebooks/**: Directorio que contiene los notebooks de Jupyter con el código para realizar el análisis exploratorio de datos.
-- **data/**: Directorio que contiene el conjunto de datos de arroz en formato .arff.
-- **results/**: Directorio que contiene los resultados del análisis y las visualizaciones generadas.
-
 ## Objetivos
 
 - Realizar un análisis detallado de las propiedades del arroz.
@@ -24,9 +18,9 @@ Este repositorio contiene un conjunto de notebooks de Jupyter que realizan un an
 
 ## Uso
 
-1. Abre los notebooks de Jupyter en el directorio `notebooks/`.
-2. Ejecuta las celdas de código para realizar el análisis exploratorio de datos.
-3. Explora los resultados y visualizaciones generadas.
+1. Abre los notebooks de Jupyter en el directorio `main/`.
+3. Ejecuta las celdas de código para realizar el análisis exploratorio de datos.
+4. Explora los resultados y visualizaciones generadas.
 
 ## Contribuciones
 
